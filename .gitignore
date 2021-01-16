@@ -141,3 +141,5 @@ cython_debug/
 news_data/
 !requirements.txt
 *.DS_Store
+
+tmp_*

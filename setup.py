@@ -46,9 +46,6 @@ APP_PROPERTY = {
     "install_requires": get_requires(),
     "python_requires": ">=3.8",
     "zip_safe": False,
-    "classifiers": [
-          "Development Status ::5 - Production/Stable" 
-    ],
+    "classifiers": ["Development Status ::5 - Production/Stable"],
 }
-
 setup(**APP_PROPERTY)
